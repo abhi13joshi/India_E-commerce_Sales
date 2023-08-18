@@ -14,3 +14,10 @@ Used Python to perform data cleaning, product analysis, time series analysis, an
 - Geopandas
 - Matplotlib
 - Seaborn
+
+## Source
+https://www.kaggle.com/datasets/benroshan/ecommerce-data
+https://www.naturalearthdata.com/downloads/
+
+## Contributors
+- Abhi Joshi
